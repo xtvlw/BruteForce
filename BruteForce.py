@@ -7,4 +7,4 @@ while password != pos:
     pos += 1
 fi = time.time()
 di = fi - st
-print('\nyour password is {}\nwas need {:.4f}S'.format(password, di))
+print('\nyour password is {}\nwas need {:.4f}S'.format(password, password))
